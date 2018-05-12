@@ -1,0 +1,30 @@
+_repo: Adventures-in-ToylandWhat-the-Marionette-Told-Molly_23523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, Edith King
+    alias: Hall, E. King
+    gutenberg_agent_id: '25892'
+    url: http://www.gutenberg.org/2009/agents/25892
+description: A young girl wanders into her aunt's toy shop after the store is closed
+  and discovers that her favourite toy, a dancing Marionette, can walk and talk. The
+  Marionette proceeds to tell her stories of the other toys--one each day for the
+  remainder of her visit with her aunt.
+gutenberg_issued: '2007-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23523'
+  lccn: 00005968
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Toys -- Juvenile fiction'
+title: Adventures in Toyland; What the Marionette Told Molly
+url: http://www.gutenberg.org/ebooks/23523
